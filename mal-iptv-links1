@@ -1,0 +1,64 @@
+#EXTINF:-1, [COLOR yellow]Asianet TV Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet/Asianet.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Plus Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Plus/Asianet_Plus.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Plus2 Malayalam[/COLOR]
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet HD Malayalam[/COLOR]
+http://live-fs.wmncdn.net/amsqasianet/asianetlive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Movies Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet News Malayalam[/COLOR]
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Kairali People Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kairali_TV/Kairali_TV.m3u8
+#EXTINF:-1, [COLOR yellow]DD Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Malayalam/DD_Malayalam.m3u8
+#EXTINF:-1, [COLOR yellow]Kiran TV Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV.m3u8
+#EXTINF:-1, [COLOR yellow]Matrubhumi Malayalam[/COLOR]
+http://llnwlive.prasaria.com/pr_live_origin_mathrubhumi/stream8042/chunklist.m3u8
+#EXTINF:-1, [COLOR yellow]MediaOne Malayalam[/COLOR]
+http://llnwlive.prasaria.com/pr_live_origin_mediaone/stream713/chunklist.m3u8
+#EXTINF:-1, [COLOR yellow]Manoroma HD Malayalam[/COLOR]
+http://live-fs.wmncdn.net/amsqmazhavil/mazhavillive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Surya Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_TV/Surya_TV.m3u8
+#EXTINF:-1, [COLOR yellow]Surya2 Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV.m3u8
+#EXTINF:-1, [COLOR yellow]Surya Music Malayalam[/COLOR]
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_Music/Surya_Music.m3u8
+#EXTINF:-1, [COLOR yellow]Malayalam TV[/COLOR]
+http://62.210.149.2:1935/7206/7206/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Magna TV Malayalam[/COLOR]
+http://livestream.5centscdn.com/magnatv/461580541e92155766bee9d9e8f672ea.sdp/index.m3u8
+#EXTINF:-1, [COLOR yellow]Kaumudi Malayalam[/COLOR]
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Tune 6(Mallu Songs)[/COLOR]
+rtmp://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp
+#EXTINF:-1, [COLOR yellow]Amrita TV Malayalam[/COLOR]
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Jaihind TV Malayalam[/COLOR]
+http://llnwlive.prasaria.com/pr_live_origin_jaihind/stream29917/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Jeevan TV Malayalam[/COLOR]
+http://livestream.5centscdn.com/amsqjeevan/jeevantvlive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Safari TV Malayalam[/COLOR]
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]ACV JukeBox Malayalam[/COLOR]
+http://acvonline.asianetmobiletvplus.com/channels/jukebox/jukebox_ksgetqxwxwakuwrafvzq_master.m3u8
+#EXTINF:-1, [COLOR yellow]Raj Musix Malayalam[/COLOR]
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD104L240P/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]FlowerTV Malayalam[/COLOR]
+http://live-fs.wmncdn.net/amsqflowers/flowerslive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]NTV HD Malayalam[/COLOR]
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Pravasi HD Malayalam[/COLOR]
+http://lax.globaliptv.net/pravasi/wzqsjszoeajnqnbanmpn/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]AnandMedia HD Malayalam[/COLOR]
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]TwentyFour Malayalam[/COLOR]
+http://roku.cinesoft.net/Live_Origin_Elemental/smil:twentyfour.smil/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Kappa Malayalam[/COLOR]
+http://llnwlive.prasaria.com/pr_live_origin_others/stream667756/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Janan TV Malayalam[/COLOR]
+http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
