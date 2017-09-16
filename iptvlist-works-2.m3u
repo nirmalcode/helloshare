@@ -1,0 +1,303 @@
+
+#EXTINF:-1,[COLOR green]NEWSX HD[/COLOR]
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]TIMESNOW[/COLOR]
+
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/index_600_av-p.m3u8
+
+#EXTINF:-1,[COLOR green]MIRROR NOW[/COLOR]
+
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
+
+#EXTINF:-1,[COLOR green]Bloomberg US[/COLOR]
+
+https://mediauseast.akamaized.net/us/us1_live.m3u8
+
+#EXTINF:-1,[COLOR green]SKYNEWS UK[/COLOR]
+
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1, BBC World
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1,[COLOR green]Channel News Asia[/COLOR]
+
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1,[COLOR green]France24 News[/COLOR]
+
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8
+
+#EXTINF:-1,[COLOR green]CBN US[/COLOR]
+
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1,[COLOR green]DW NEWS[/COLOR]
+
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,[COLOR green]Aljazeera News[/COLOR]
+
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
+#EXTINF:-1, Dubai TV
+
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+#EXTINF:-1, Mello TV
+
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+
+#EXTINF:-1,StarPlus HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Plus_HD/Star_Plus_HD.m3u8
+
+#EXTINF:-1,StarGOLD HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD.m3u8
+
+#EXTINF:-1, Movies OK
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Movies_OK/Movies_OK.m3u8
+
+#EXTINF:-1, Zoom TV
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD160L240P/playlist.m3u8
+
+#EXTINF:-1, Zoom TV2 HD
+
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/index_600_av-p.m3u8
+
+#EXTINF:-1, D3 HD Music TV
+
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+
+#EXTINF:-1, Desi Channel
+
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1, Star Utsav
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Utsav/Star_Utsav.m3u8
+
+#EXTINF:-1, Channel V
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Channel_V/Channel_V.m3u8
+
+#EXTINF:-1, Star Sports1 HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_1/Star_Sports_HD_1.m3u8
+
+#EXTINF:-1, Star Sports2 HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_HD_2/Star_Sports_HD_2.m3u8
+
+#EXTINF:-1, Star Sports HINDI HD(IND only)
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_3/Star_Sports_3.m3u8
+
+#EXTINF:-1, Star Sports Select 1 HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1.m3u8
+
+#EXTINF:-1, Star Sports Select 2 HD
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2.m3u8
+
+#EXTINF:-1, Mahua Plus BhojPuri
+
+http://mahuaacloud.purplestream.in/mahuaaplus/mahuaaplus3-live.smil/playlist.m3u8
+
+#EXTINF:-1, Jonack
+
+rtmp://edge-ap2.cloudfrontcdn.in/edge1//smartsh2.stream_aac
+
+#EXTINF:-1, ETV Bihar
+
+http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-b.m3u8
+
+#EXTINF:-1, ETV Rajastan
+
+http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
+
+#EXTINF:-1, ETV UP
+
+http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+
+#EXTINF:-1, ETV MP
+
+http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
+
+#EXTINF:-1, ETV URDU
+
+http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
+
+#EXTINF:-1, RT Movies
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.m3u8
+
+#EXTINF:-1, [COLOR blue]TV9 Telugu[/COLOR]
+
+http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/playlist.m3u8
+
+#EXTINF:-1, [COLOR blue]MAA Gold2 Tel[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Gold/Maa_Gold.m3u8
+
+#EXTINF:-1, [COLOR blue]MAA MOVIES Telugu[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_Movies/Maa_Movies.m3u8
+
+#EXTINF:-1, [COLOR blue]Star MAATV HD Telugu[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Maa_TV/Maa_TV.m3u8
+
+#EXTINF:-1, [COLOR blue]Telangana TV Telugu[/COLOR]
+
+http://367449830.r.cdnsun.net/367449830/_definst_/sneha/playlist.m3u8
+
+#EXTINF:-1, [COLOR blue]BharatToday TV Telugu[/COLOR]
+
+http://live.wmncdn.net/bharat2015today1/livetoday.stream/index.m3u8
+
+#EXTINF:-1, [COLOR red]Kalaignar Seithigal TV Tamil[/COLOR]
+
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+
+#EXTINF:-1, [COLOR red]MakkalTV Tamil[/COLOR]
+
+http://45.79.203.234:1935/makkal/myStream/playlist.m3u8
+
+#EXTINF:-1, [COLOR red]Polimer TV Tamil[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Polimer_TV/Polimer_TV.m3u8
+
+#EXTINF:-1, [COLOR red]Isaiaruvi Tamil[/COLOR]
+
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+
+#EXTINF:-1, [COLOR red]Madha Tamil TV[/COLOR]
+
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+
+#EXTINF:-1, [COLOR red]Vendharm TV Tamil[/COLOR]
+
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+
+#EXTINF:-1, [COLOR red]Dheeran Tamil[/COLOR]
+
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+
+#EXTINF:-1, [COLOR red]Star VIJAY Tamil[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Vijay/Star_Vijay.m3u8
+
+#EXTINF:-1, [COLOR red]Jaya MAX Tamil[/COLOR]
+
+https://hls.ssh101.com/live/jayamax/index.m3u8
+
+#EXTINF:-1, V4 News Kannada
+
+rtmp://studiosystem.co.in/v4news//livestream
+
+#EXTINF:-1, [COLOR yellow]Asianet Movies Malayalam[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD.m3u8
+
+#EXTINF:-1, [COLOR yellow]Asianet News Malayalam[/COLOR]
+
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]Kaumudi Malayalam[/COLOR]
+
+http://live-fs.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]NTV HD Malayalam[/COLOR]
+
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]AnandMedia HD Malayalam[/COLOR]
+
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+
+#EXTINF:-1, [COLOR yellow]Janan TV Malayalam[/COLOR]
+
+http://live.wmncdn.net/janamtv2/live.stream/index.m3u8
+
+#EXTINF:-1, [COLOR orange]IBN Lokmat Marathi[/COLOR]
+
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+
+#EXTINF:-1,[COLOR orange]ABP Majha[/COLOR]
+
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
+
+#EXTINF:-1, [COLOR orange]Star Pravah Marathi[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Pravah/Star_Pravah.m3u8
+
+#EXTINF:-1,DD LokSabha
+
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+#EXTINF:-1,DD RajyaSabha
+
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1,DD Punjab
+
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+
+#EXTINF:-1,DD Bharti
+
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD251L240P/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]India NewsUP TV-Hindi[/COLOR]
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]India NewsHaryana TV-Hindi[/COLOR]
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]India NewsRajasthan TV-Hindi[/COLOR]
+
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR blue]Star Jalsa Bangla[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Star_Jalsha/Star_Jalsha.m3u8
+
+#EXTINF:-1,[COLOR blue]Star Jalsa MOVIES[/COLOR]
+
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/Jalsa_Movies_HD/Jalsa_Movies_HD.m3u8
+
+#EXTINF:-1, Yoga TV -Swamiji
+
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1,Sports2 HD
+
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,Sports12 HD
+
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,Sports3 HD
+
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,IndiesMusic HD
+
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
+#EXTINF:-1,SKY TG24
+
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+
+
