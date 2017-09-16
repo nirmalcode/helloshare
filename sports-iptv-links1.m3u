@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0, BT Sport 1
+http://185.53.163.205:2700
+#EXTINF:0, BT Sport 2
+http://185.53.163.205:2506
+#EXTINF:0, BT Sport 3
+http://185.53.163.205:2701
+#EXTINF:0, BT Sport ESPN
+http://185.53.163.205:2507
+#EXTINF:0, BT Sport Extra 1
+http://185.53.163.205:2707
+#EXTINF:0, BT Sport Extra 2
+http://185.53.163.205:2500
+#EXTINF:0, BT Sport Extra 3
+http://185.53.163.205:2501
+#EXTINF:0, BT Sport Extra 4
+http://185.53.163.205:2502
+#EXTINF:0, BT Sport Extra 5
+http://185.53.163.205:2503
+#EXTINF:0, BT Sport Extra 6
+http://185.53.163.205:2504
+#EXTINF:0, Sky Sports 1 UK
+http://185.53.163.212:2312
+#EXTINF:0, Sky Sports 2 UK
+http://185.53.163.212:2313
+#EXTINF:0, Sky Sports 3 UK
+http://185.53.163.212:2314
+#EXTINF:0, Sky Sports 4 UK
+http://185.53.163.212:19702
+#EXTINF:0, Sky Sports 5 UK
+http://185.53.163.212:19700
+#EXTINF:0, Sky Sports F1 UK
+http://185.53.163.212:2310
